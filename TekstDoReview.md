@@ -2,9 +2,9 @@
 
 **Nobody knows everything.** That is why every technical writer has to communicate with different stakeholders to get the necessary information needed to perform their work correctly. Very often they reach out to the so-called SME-s to gain clarity about a certain topic. 
 
-Some of them are really helpful and willing to share knowledge whereas some of them may be more challenging to approach. Don’t let that discourage you. Below I prepared an **ABC guide with some tips & tricks on how to work efficiently with an (unresponsive) SME** based also on my own experiences.
+Some of them are really helpful and willing to share knowledge whereas some of them may be more challenging to approach. Don’t let that scare you off. Below I prepared an **ABC guide with some tips & tricks on how to work efficiently with an (unresponsive) SME** based also on my own experiences.
 
-For those of you who may not be familiar with the term SME: an **SME is an is a professional who has extensive knowledge of a specific area of expertise.** SME-s are experienced individuals and go-to people if  you want to get to know more about a particular topic.
+For those of you who may not be familiar with the term SME: an **SME is an is a professional who has extensive knowledge of a specific area of expertise.** SME-s are experienced people and go-to people if  you want to get to know more about a particular topic.
 
 Let’s go! 😊
 
